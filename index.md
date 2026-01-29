@@ -1,9 +1,16 @@
-# Latest posts
+---
+layout: default
+title: Blog
+---
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a> — {{ post.date | date: "%B %d, %Y" }}
-    </li>
-  {% endfor %}
-</ul>
+> One must imagine.
+
+---
+
+{% for post in site.posts %}
+
+### [{{ post.title }}]({{ post.url }})
+
+{{ post.date | date: "%B %d, %Y" }}
+
+{% endfor %}
