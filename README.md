@@ -1,2 +1,1 @@
-# r-bakes.github.io
-One must imagine.
+# Neat Stuff in Computer Science
