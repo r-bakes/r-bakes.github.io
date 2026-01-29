@@ -3,7 +3,7 @@ layout: default
 title: Blog
 ---
 
-# Posts
+# Cool Stuff in Computer Science
 
 ---
 
