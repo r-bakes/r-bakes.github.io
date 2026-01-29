@@ -3,7 +3,9 @@ layout: default
 title: Blog
 ---
 
-# Cool Stuff in Computer Science
+# Neat Stuff
+
+> A collection of articles on varied topics in computer science and software that were interesting enough to warrant deeper reflection.
 
 ---
 
