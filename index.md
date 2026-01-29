@@ -3,9 +3,7 @@ layout: default
 title: Blog
 ---
 
-> One must imagine.
-
----
+# Posts
 
 {% for post in site.posts %}
 
